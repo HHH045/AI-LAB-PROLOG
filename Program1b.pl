@@ -12,5 +12,5 @@ father(X, Y) :-
 
 mother(X, Y) :-
     female(X),
-    parent(X, Y).
+    parent(X, Y).swipl 
     
